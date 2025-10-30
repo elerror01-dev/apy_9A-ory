@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "exercice3",
+=======
+  "name": "excercise2",
+>>>>>>> 865740626c1d1140842df22fbb655fb13b0aa90d
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -16,6 +20,10 @@
     "dotenv": "^17.2.3",
     "express": "^5.1.0",
     "mongoose": "^8.19.1",
+<<<<<<< HEAD
     "nodemon": "^3.1.10"
+=======
+    "nodemon": "3.1.10"
+>>>>>>> 865740626c1d1140842df22fbb655fb13b0aa90d
   }
 }
